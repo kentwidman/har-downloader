@@ -1,0 +1,17 @@
+{
+  "name": "har_downloader",
+  "version": "1.0.0",
+  "description": "Downloads the files listed in a har file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kent Widman",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.5.0",
+    "content-disposition": "^0.5.0",
+    "express": "^4.10.6",
+    "mkdirp": "^0.5.0"
+  }
+}
